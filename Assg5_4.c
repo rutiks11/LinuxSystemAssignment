@@ -1,6 +1,6 @@
 /*
-    Write aprogram which accept directory from user and write information 
-    of all regulalr file in and then read the contents from that file
+    Write program which accept directory from user and write information 
+    of all regular file in and then read the contents from that file
 */
 
 #include<stdio.h>
