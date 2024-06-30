@@ -1,5 +1,5 @@
 /*
-    Write a program which accept fderectory name from user and
+    Write a program which accept directory name from user and
     print all file names.
 
 */
